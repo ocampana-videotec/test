@@ -12,7 +12,7 @@ info:
   x-logo:
     url: https://www.onvif.org/logo.gif
     background: "#ffffff"
-    altText: "ONVIF logo"
+    altText: "ONVIF logo" 
 
 components:
   schemas:
